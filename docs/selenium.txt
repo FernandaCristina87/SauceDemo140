@@ -7,3 +7,17 @@ Existe 3 pontos principais de fragilidade em uma automação:
 
 side - selenium ide
 swd - selenium webdriver 
+
+Formas de criação e Organização de Script
+1 - Gravação (Capture & Playback / Record & Play)
+2 - Exportação e Importação de codigo de Fonte (Script Simples) 
+3 - Criar o Script Simples manualmente
+4 - Script com Cucumber / Behave --> 1 teste = 2 arquivos (.feature em Gherkin e .py que é o Script de automação) 
+
+
+BDD = Behavior Driven Development  == Desenvolvimento Direcionado por comportamento
+---> Foco no comportamento esperdo do Software --> Dito pelo POO 
+
+---> Criterios de Aceitação --> Sintaxe Gherkin
+Dado - Quando - Então
+cucumber.io
