@@ -40,4 +40,5 @@ class TestTestchecagemproduto():
     self.driver.find_element(By.CSS_SELECTOR, "*[data-test=\"remove-sauce-labs-backpack\"]").click()
     self.driver.find_element(By.ID, "react-burger-menu-btn").click()
     self.driver.find_element(By.ID, "logout_sidebar_link").click()
+    self.driver.find_element(By.ID, "logout_sidebar_link").click()
   
