@@ -2,7 +2,7 @@ Existe 3 pontos principais de fragilidade em uma automação:
 1 - seletor errado, seletor mudou, seletor dinamico 
 2 - sincronismo (tipos de espera)
     self.driver.implicitly_wait(10)  , onde demorrar p carrgar o sitema vai ter paciencia em esperar 5 segundos.
-3 - programação exotica
+3 - programação exótica
 
 
 side - selenium ide
